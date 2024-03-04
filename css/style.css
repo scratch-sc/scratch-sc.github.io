@@ -137,7 +137,7 @@ header address i {
 }
 /*×印が出ている状態の設定。*/
 #menubar_hdr.ham {
-	background: #ff0000 url(../images/ham.png) no-repeat center bottom/50px;
+	background: #ff9c00 url(../images/ham.png) no-repeat center bottom/50px;
 }
 
 
